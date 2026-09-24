@@ -11,3 +11,5 @@ git commit
 prepare files for push
 git push --set-upstream origin main
 upload local changes to remote github repository
+create .env with apikey
+create .gitignore with .env
