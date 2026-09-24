@@ -190,27 +190,5 @@ This README covers:
 
 
 
-Use it as a quick reference for setting up and maintaining your Git workflow.
 
-```
-
-
-
-\---
-
-
-
-If you want, I can also generate:
-
-
-
-✅ A more advanced README  
-
-✅ A professional Git workflow guide  
-
-✅ A version with emojis, badges, or sections like “Installation”, “Usage”, “Tech Stack”  
-
-
-
-Just tell me the style you want.
 
